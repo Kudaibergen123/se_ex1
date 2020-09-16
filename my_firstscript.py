@@ -1,2 +1,4 @@
 print("Hello")
-print("Line1 qwe")
+
+print("Line1")
+
